@@ -1,0 +1,14 @@
+#ChangeImage{
+    border: 10px solid #ECE2D0;
+    padding: 15px;
+    width: 300px;
+    margin-left: 400px
+}
+
+#ChangeButton{
+    width: 350px;
+    padding: 10px 24px;
+    border-radius: 4px;
+    margin-left: 400px
+}
+
